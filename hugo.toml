@@ -1,6 +1,6 @@
 # baseURL = 'https://example.org/'
 # languageCode = 'en-us'
-title = "Nishant's Digital Garden"
+# title = "Nishant's Digital Garden"
 
 baseurl = "/"
 languageCode = "en-us"
@@ -78,9 +78,9 @@ pagination.pagerSize = 5
 [languages]
   [languages.en.params]
     languageName = "English"
-    title = "re-Terminal"
+    title = "Here I write about my victoris and losses in the digital world"
     subtitle = "A simple, retro theme for Hugo"
-    owner = ""
+    owner = "Nishant"
     keywords = ""
     copyright = ""
     menuMore = "Show more"
