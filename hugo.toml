@@ -39,7 +39,7 @@ pagination.pagerSize = 5
   showLastUpdated = false
 
   # set a custom favicon (default is a `themeColor` square)
-  # favicon = "favicon.ico"
+  favicon = "favicon96.ico"
 
   # Provide a string as a prefix for the last update date. By default, it looks like this: 2020-xx-xx [Updated: 2020-xx-xx] :: Author
   # updatedDatePrefix = "Updated"
@@ -94,7 +94,7 @@ pagination.pagerSize = 5
     words = "words"
 
     [languages.en.params.logo]
-      logoText = "re-Terminal"
+      logoText = "Nishant's garden"
       logoHomeLink = "/"
 
     [languages.en.menu]
