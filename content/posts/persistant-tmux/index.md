@@ -2,7 +2,7 @@
 ---
 title: "Persistant Tmux"  # Hugo archetype templating
 date: "2026-02-10T02:30:54+05:30"
-draft: true
+draft: false
 tags: ["tmux"]
 categories: ["setup"]
 showToc: true
