@@ -12,11 +12,11 @@
 
 # Title is generated from the file/folder name.
 # Example: "my-first-post" -> "My First Post"
-title: "{{ replace .File.ContentBaseName `-` ` ` | title }}"  # Hugo archetype templating
+title: "My First Post"  # Hugo archetype templating
 
 # Hugo injects the current time when running `hugo new ...`.
 # Keep it quoted so YAML parses it as a string even with timezone.
-date: "{{ .Date }}"
+date: "2026-02-10T00:27:04+05:30"
 
 # New posts should usually start as drafts.
 draft: true
@@ -56,7 +56,7 @@ disableShare: false
 #     highlight: { codeFences: true, ... }
 # If you really want per-post override, uncomment the line below (use only ONE disableHLJS line).
 # -----------------------------------------
-# disableHLJS: false   # Enable Highlight.js loading for this post (disables Chroma instead)
+# disableHLJS: true   # Disable Highlight.js loading for this post (use Chroma instead)
 
 # List page behavior
 hideSummary: false      # true = hide the summary/excerpt on list pages
@@ -93,3 +93,4 @@ editPost:
   Text: "Suggest Changes"
   appendFilePath: true
 ---
+Testing blog post
