@@ -22,8 +22,8 @@ date: "2026-02-10T00:27:04+05:30"
 draft: true
 
 # Taxonomy (enable in your hugo.yml: taxonomies: { tag: tags, category: categories } if you want)
-tags: []
-categories: []
+tags: ["tag1","tag2"]
+categories: ["category1", "caterogy2"]
 
 # Optional: author shown in post meta (string or list) if your PaperMod config displays it.
 # author: "Me"

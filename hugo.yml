@@ -1,4 +1,4 @@
-baseURL: "https://examplesite.com/"
+baseURL: "https://newuser.dev/"
 title: Nishant's digital garden
 
 pagination:
@@ -45,10 +45,10 @@ params:
   assets:
     disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
-    favicon: "<link / abs url>"
-    favicon16x16: "<link / abs url>"
-    favicon32x32: "<link / abs url>"
-    apple_touch_icon: "<link / abs url>"
+    favicon: "/favicon.ico"
+    favicon16x16: "/favicon-96x96.png"
+    favicon32x32: "/favicon-96x96.png"
+    apple_touch_icon: "/apple_touch_icon.png"
     safari_pinned_tab: "<link / abs url>"
 
   label:
@@ -74,13 +74,13 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Hello \U0001F44B!"
-    Content: Welcome to my brain dump
+    Content: "Welcome to my brain dump. I write about about selfhosting, DevOps and FastApi and more."
 
   socialIcons:
     - name: x
       url: "https://x.com/"
-    - name: stackoverflow
-      url: "https://stackoverflow.com"
+    - name: linkedin
+      url: "https://linkedin.com/en"
     - name: github
       url: "https://github.com/"
 
@@ -123,8 +123,8 @@ menu:
       name: tags
       url: /tags/
       weight: 20
-    - identifier: example
-      name: example.org
+    - identifier: portfolio
+      name: portfolio
       url: https://example.org
       weight: 30
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
