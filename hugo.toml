@@ -36,7 +36,7 @@ pagination.pagerSize = 5
 
   # set post to show the last updated
   # If you use git, you can set `enableGitInfo` to `true` and then post will automatically get the last updated
-  showLastUpdated = false
+  showLastUpdated = true
 
   # set a custom favicon (default is a `themeColor` square)
   favicon = "favicon96.ico"
@@ -76,10 +76,13 @@ pagination.pagerSize = 5
   site = ""
 
 [languages]
+ [languages.en]
+  title = "Testing title"
+  subtitle = "Subtitle testing"
   [languages.en.params]
     languageName = "English"
-    title = "Here I write about my victoris and losses in the digital world"
-    subtitle = "A simple, retro theme for Hugo"
+    # title = "Here I write about my victoris and losses in the digital world"
+    # subtitle = "Testing subtitle A simple, retro theme for Hugo"
     owner = "Nishant"
     keywords = ""
     copyright = ""
