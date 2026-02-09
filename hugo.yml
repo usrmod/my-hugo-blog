@@ -78,11 +78,11 @@ params:
 
   socialIcons:
     - name: x
-      url: "https://x.com/"
-    - name: linkedin
-      url: "https://linkedin.com/en"
+      url: "https://x.com/alive_nishant"
+    # - name: linkedin
+    #   url: "https://linkedin.com/en"
     - name: github
-      url: "https://github.com/"
+      url: "https://github.com/usrmod"
 
   analytics:
     google:

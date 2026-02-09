@@ -9,7 +9,8 @@ showToc: true
 TocOpen: false
 hidemeta: false
 comments: false
-description: ""          # Short description shown under the title on the post page
+description: ""
+summary: ""
 canonicalURL: ""         # Example: "https://canonical.url/to/page"
 disableShare: false
 hideSummary: false      # true = hide the summary/excerpt on list pages
@@ -29,4 +30,7 @@ editPost:
   URL: ""                # e.g. "https://github.com/<user>/<repo>/blob/main/content"
   Text: "Suggest Changes"
   appendFilePath: true
+---
+<!--more-->
+> TLDR;
 ---

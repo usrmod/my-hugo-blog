@@ -39,7 +39,8 @@ TocOpen: false
 # Meta + UX toggles
 hidemeta: false
 comments: false
-description: ""          # Short description shown under the title on the post page
+description: "description testing not working"          # Short description shown under the title on the post page on full page
+summary: "Getting started with summary"                 # summary shown when post is closed
 canonicalURL: ""         # Example: "https://canonical.url/to/page"
 
 # Share icons
@@ -73,6 +74,8 @@ ShowWordCount: true
 # Use Hugo's built-in TOC instead of theme's TOC rendering (optional)
 UseHugoToc: true
 
+# summary: "getting started"
+
 # -----------------------------------------
 # Cover image (works great with page bundles)
 # If you use a leaf bundle (posts/slug/index.md) and put image next to it,
@@ -93,4 +96,8 @@ editPost:
   Text: "Suggest Changes"
   appendFilePath: true
 ---
-Testing blog post
+<!-- more -->
+> TLDR; 
+---
+
+Testing
