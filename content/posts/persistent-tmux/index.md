@@ -1,6 +1,6 @@
 
 ---
-title: "Persistant Tmux"  # Hugo archetype templating
+title: "Persistent Tmux"  # Hugo archetype templating
 date: "2026-02-10T02:30:54+05:30"
 draft: false
 tags: ["tmux"]
