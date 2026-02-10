@@ -27,7 +27,7 @@ params:
   disableThemeToggle: false
 
   ShowReadingTime: true
-  ShowShareButtons: true
+  ShowShareButtons: false
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: true
@@ -73,8 +73,8 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Consider this my digital garden - I don't know gardening"
-    Content: "I write to the point articles about selfhosting, DevOps, Backend Development, FastApi and more."
+    Title: "Consider this my digital garden"
+    Content: "I don't know gardening. I write to the point articles about selfhosting, DevOps, Backend Development, FastApi and more."
 
   socialIcons:
     - name: x
