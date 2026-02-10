@@ -1,8 +1,9 @@
 
 ---
+draft: true
 title: "{{ replace .File.ContentBaseName `-` ` ` | title }}"  # Hugo archetype templating
 date: "{{ .Date }}"
-draft: true
+author: "Nishant"
 tags: []
 categories: []
 showToc: true

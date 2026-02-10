@@ -19,7 +19,7 @@ params:
   # title: ExampleSite
   description: "ExampleSite description"
   keywords: [Blog, Portfolio, PaperMod]
-  author: Me
+  author: Nishant
   # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
@@ -30,7 +30,7 @@ params:
   ShowShareButtons: true
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
-  ShowCodeCopyButtons: false
+  ShowCodeCopyButtons: true
   ShowWordCount: true
   ShowRssButtonInSectionTermList: true
   UseHugoToc: true
@@ -73,8 +73,8 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Hello \U0001F44B!"
-    Content: "Welcome to my brain dump. I write about about selfhosting, DevOps and FastApi and more."
+    Title: "Consider this my digital garden - I don't know gardening"
+    Content: "I write to the point articles about selfhosting, DevOps, Backend Development, FastApi and more."
 
   socialIcons:
     - name: x
