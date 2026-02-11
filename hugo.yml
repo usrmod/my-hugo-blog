@@ -1,4 +1,4 @@
-baseURL: "https://dev.newuser.dev/"
+baseURL: "https://newuser.dev/"
 title: Nishant's digital garden
 
 pagination:
@@ -74,7 +74,7 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Consider this my digital garden"
-    Content: "I don't know gardening. I write to the point articles about selfhosting, DevOps, Backend Development, FastApi and more."
+    Content: "I don’t know gardening. I write to the point articles about selfhosting, DevOps, Backend Development, FastApi and more."
 
   socialIcons:
     - name: x
