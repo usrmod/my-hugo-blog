@@ -1,8 +1,9 @@
 
 ---
-title: "Persistant Tmux"  # Hugo archetype templating
+draft: false
+title: "Persistent Tmux"  # Hugo archetype templating
 date: "2026-02-10T02:30:54+05:30"
-draft: true
+author: "Nishant"
 tags: ["tmux"]
 categories: ["setup"]
 showToc: true
@@ -10,7 +11,7 @@ TocOpen: false
 hidemeta: false
 comments: false
 description: ""          # Short description shown under the title on the post page on expanded post
-summary: "Summary tested"              # Summary shown when post is collapsed
+summary: "Make your Tmux sessions survive reboots"              # Summary shown when post is collapsed
 canonicalURL: ""         # Example: "https://canonical.url/to/page"
 disableShare: false
 hideSummary: false      # true = hide the summary/excerpt on list pages
@@ -35,8 +36,6 @@ editPost:
 > TLDR;
 > - Set up tmux-resurrect and tmux-continuum to save/restore sessions after reboots
 > - Manual restore workflow: save before reboot, restore after with simple keybindings
-> Clarifies what's actually possible with SSH "persistence" across reboots
-> Setup time: ~10 minutes
 ---
 
 # Making Tmux Survive Reboots
