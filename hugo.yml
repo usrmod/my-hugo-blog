@@ -73,8 +73,8 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Hello \U0001F44B!"
-    Content: "Welcome to my brain dump. I write about about selfhosting, DevOps and FastApi and more."
+    Title: "Consider this my digital garden"
+    Content: "I don’t know gardening. I write to the point articles about selfhosting, DevOps, Backend Development, FastApi and more."
 
   socialIcons:
     - name: x
