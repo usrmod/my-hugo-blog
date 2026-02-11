@@ -2,7 +2,7 @@
 ---
 title: "Git Commands"  # Hugo archetype templating
 date: "2026-02-11T20:17:04+05:30"
-draft: true
+draft: false
 tags: ["git"]
 categories: ["tutorials"]
 showToc: true
