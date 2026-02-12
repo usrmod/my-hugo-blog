@@ -9,7 +9,7 @@ showToc: true
 TocOpen: false
 hidemeta: false
 comments: false
-description: "All imaportant components of Dockerfile syntax in one place"
+description: "All important components of Dockerfile syntax in one place"
 summary: "Breakdown of Dockerfile syntax"
 canonicalURL: ""         # Example: "https://canonical.url/to/page"
 disableShare: false
