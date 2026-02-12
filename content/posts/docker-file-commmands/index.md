@@ -2,9 +2,9 @@
 ---
 title: "Docker File Commmands"  # Hugo archetype templating
 date: "2026-02-13T03:15:46+05:30"
-draft: true
-tags: []
-categories: []
+draft: false
+tags: ["docker", "syntax"]
+categories: ["tutorials"]
 showToc: true
 TocOpen: false
 hidemeta: false
@@ -40,11 +40,11 @@ editPost:
 
 ### 1.1 What Is a Dockerfile?
 
-1.1.1 A **Dockerfile is a text file with instructions** to build a Docker image. [docs.docker](https://docs.docker.com/get-started/docker-concepts/building-images/multi-stage-builds/)
+A **Dockerfile is a text file with instructions** to build a Docker image. [docs.docker](https://docs.docker.com/get-started/docker-concepts/building-images/multi-stage-builds/)
 
-1.1.2 **Each instruction creates a layer** in the final image.
+**Each instruction creates a layer** in the final image.
 
-1.1.3 **Written in a specific DSL** (Domain Specific Language) with commands in UPPERCASE.
+ **Written in a specific DSL** (Domain Specific Language) with commands in UPPERCASE.
 
 ```
 Dockerfile → docker build → Docker Image → docker run → Container
